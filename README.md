@@ -6,4 +6,4 @@
    
 </ul>
 
-! [alt text](demo.gif)
+![alt text]( demo.gif )
