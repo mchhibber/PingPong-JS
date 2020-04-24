@@ -1,4 +1,7 @@
 # PingPong-JS
-  -two player game (P1: W/S   P2: ArrowUp/ArrowDown)
-  -score display
-  -just download and run 'pong.html' to run
+<ul>
+  <li> Two Player Game 
+  <li> P1: W/S   P2: ArrowUp/ArrowDown
+  <li> Score count
+   
+</ul>
