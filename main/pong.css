@@ -1,0 +1,58 @@
+body{
+	margin: 0;
+}
+#container{
+	background-color: #535353;
+	height: 100vh;
+	width: 100vw;
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+.player{
+	height: 30%;
+	width: 1.4%;
+	background-color: white;
+	position: absolute;
+	border-radius: 15px;
+	box-shadow: 0 0 7px white;
+}
+#player1{
+	
+	left: 0.5%;
+	top: 40%;
+	
+}
+#score1, #score2{
+	position: absolute;
+	left: 24%;
+	color: white;
+	font-size: xxx-large;
+}
+#score2{
+	left: 76%;
+}
+#divider{
+	height: 100%;
+	width: 0.5%;
+	position: fixed;
+	left: 50%;
+	background-color: white;
+
+}
+#ball{
+	height: 20px;
+	width: 20px;
+	border-radius: 50%;
+	background-color: white;
+	position: absolute;
+	left: 2%;
+	top: 49%;
+	box-shadow: 0 0 7px white;
+}
+#player2{
+	
+	right: 0.5%;
+	top: 40%;
+	
+}
