@@ -15,7 +15,6 @@ body{
 	background-color: white;
 	position: absolute;
 	border-radius: 15px;
-	box-shadow: 0 0 7px white;
 }
 #player1{
 	
@@ -48,11 +47,9 @@ body{
 	position: absolute;
 	left: 2%;
 	top: 49%;
-	box-shadow: 0 0 7px white;
 }
 #player2{
 	
 	right: 0.5%;
 	top: 40%;
-	
 }
